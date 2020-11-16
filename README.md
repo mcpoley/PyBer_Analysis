@@ -10,11 +10,11 @@ As expected most of the rides occurred in the urban areas, followed by the subur
 
 This trend of course proved to run in the opposite direction when it came to average fare prices. Because of a greater population, the average fare price per driver, and fare price per ride were the lowest in urban areas, and the highest in rural areas. This not only makes sense mathematically, but economically—price decreases with an increase in quantity demanded. 
 
-![Chart 1](path/to/Chart1.png).
+![Chart 1](/relative/path/to/Chart 1.png?raw=true "Chart 1")
 
 Looking at the weekly trends over time, it is noteworthy that the urban and suburban patterns began with a similar spike in the early weeks of January, while rural areas plummeted. However, both of these city types showed an opposite correlation in the month of April. Also notable is that all city types seemed to spike toward the end of February. Both urban and rural areas exhibited an upward trend in the opening weeks of April. 
 
-![image_name](path/to/image_name.png).
+![Chart 2](/relative/path/to/Challenge_fare_summary.png?raw=true "Chart 2")
 #Summary#
 
 This author’s strategic recommendations to the PyBer CEO are as followed:
